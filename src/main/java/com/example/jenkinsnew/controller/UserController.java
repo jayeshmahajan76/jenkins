@@ -14,7 +14,7 @@ public class UserController {
 
     @GetMapping("/list")
     public String getList(){
-        return "Hii Jayesh" ;
+        return "Hii Jayesh 1" ;
     }
 
 }
